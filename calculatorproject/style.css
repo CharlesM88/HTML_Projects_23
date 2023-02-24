@@ -24,7 +24,7 @@ body{
 .wrapper{
     backdrop-filter: blur(5.5x);
     -webkit-backdrop-filter: blur(5.5px);
-    border-radius: 16px;
+    border-radius: 36px;
     box-shadow: 0 4px 30px rgba(35, 35, 35, 0.1);
     color: #232323;
     backdrop-filter: blur(4px);
